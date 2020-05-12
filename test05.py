@@ -9,3 +9,5 @@ observation = owm.weather_at_place(place)
 weather = observation.get_weather()
 
 print(weather)
+
+input()
